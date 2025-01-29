@@ -16,3 +16,16 @@ Estatísticas do Ping para 2800:3f0:4001:83c::2004:
              perda),
 Aproximar um número redondo de vezes em milissegundos:
     Mínimo = 14ms, Máximo = 17ms, Média = 16ms
+
+
+    EXERCICIOS 2 
+
+    1) Protocolo: https
+Domínio: www.nytimes.com
+Porta: 2023/08/28
+Caminho: science 
+Parâmetro: birds-flycatcher-migration.html 
+
+2) O protocolo para transmitir documentos na rede (HTTP);
+Um identificador único que aponte para cada documento existente na rede (URL);
+A linguagem para estruturar esses documentos a serem exibidos nas máquinas dos usuários (HTML).
